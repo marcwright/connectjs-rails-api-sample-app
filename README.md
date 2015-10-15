@@ -12,5 +12,7 @@ This is a scaffolded app to demo the capabilities of the Rails API.
 5. `rails server`
 6. In your browser, goto 127.0.0.1/teams or /teams.json
 
+The app is also deployed on Heroku [here](https://connectjs-railsapi-app.herokuapp.com):
+
 
 
